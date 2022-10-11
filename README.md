@@ -1,7 +1,7 @@
 diablo-js
 =========
 
-A javascript mini version of Diablo
+A mini javascript version of Diablo
 
 Demo
 ----
